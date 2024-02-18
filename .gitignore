@@ -498,4 +498,5 @@ pyrightconfig.json
 
 ## Mac OS files
 .DS_Store
-
+*.csv
+*.xlsx
