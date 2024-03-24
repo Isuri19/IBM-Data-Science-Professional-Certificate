@@ -500,3 +500,5 @@ pyrightconfig.json
 .DS_Store
 *.csv
 *.xlsx
+
+4.3_Plotly_Basics.ipynb
